@@ -3,7 +3,7 @@ ABOUT ME
 
 👋 Hi, I’m Thomas Notarangelo.
 At the age of 32, i chose to reorient myself toward a profession with a bright future and so many things to learn : Web & Mobile Developer 🚀🚀🚀.  
-I’m currently looking for a cooperative training course with  [Le Reacteur](https://www.lereacteur.io/). I joined their Bootcamp 3 months ago and i want to learn as much as i can from them. 🤓
+I’m currently looking for a cooperative training course with  [Le Reacteur](https://www.lereacteur.io/). I joined their Bootcamp 3 months ago and i want to learn as much as i can from them. 
 
 🧷 STACKS I WORK WITH 
 
